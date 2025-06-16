@@ -17,7 +17,7 @@ How do I acknowledge that I don't have to have an opinion about everything? More
 
 ## The Reflection
 
-There are so many decisions and discussions that happen every minute that I'm not aware of. Since I'm not aware of them, I can't have an opinion—and I don't care about them because I literally don't know about them. I know my team really well, and I know they will come to me when they need my opinion about something. Reminding myself that there is trust and foundation in these relationships, and that I have nothing to be scared of, is really helpful.
+There are so many decisions and discussions that happen every minute that I'm not aware of. Since I'm not aware of them, I can't have an opinion-and I don't care about them because I literally don't know about them. I know my team really well, and I know they will come to me when they need my opinion about something. Reminding myself that there is trust and foundation in these relationships, and that I have nothing to be scared of, is really helpful.
 
 ### What I Cannot Control
 - What decisions people make

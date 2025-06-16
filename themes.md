@@ -6,14 +6,10 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 ## 🔥 Crisis and Resilience
 
-
 ## 🌱 Growth and Mentorship
-
 
 ## ⚖️ Decision Making
 
-
 ## 🧘 Personal Practice
-
 
 ## 💼 Leadership Philosophy
