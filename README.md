@@ -18,3 +18,20 @@ I write them for myself. But if you're an engineering manager, a team lead, or j
 - Engineering Managers seeking philosophical grounding
 - Technical leaders exploring Stoic principles
 - Anyone interested in applying ancient wisdom to modern leadership challenges
+
+## How to Read
+
+There's no single "right" way to engage with these meditations. Here are a few approaches:
+
+**Chronological Reading**  
+Start with the [Index](index.md) and read through in order. Each meditation builds on practical EM experiences.
+
+**Challenge-Based Reading**  
+Browse by [Themes](themes.md) to find meditations that match your current situation—dealing with difficult decisions, team conflicts, or personal growth challenges.
+
+**Random Exploration**  
+Pick any meditation that catches your eye. Each entry is self-contained with its own Stoic quote and practical application.
+
+**Daily Practice**  
+Read one meditation each morning as part of your leadership routine, or return to favorites when facing similar challenges.
+
