@@ -2,14 +2,17 @@
 
 Meditations grouped by common Engineering Management challenges and Stoic principles.
 
-## 🎯 Control and Acceptance
+## Control and Acceptance
 
-## 🔥 Crisis and Resilience
+- [001: The Freedom of No Opinion](meditations/001_the_freedom_of_no_opinion.md) - Learning when not to have an opinion as a manager
+- [002: Translating a Decision I Don't Agree With](meditations/002_control_and_acceptance.md) - Translating a Decision I Don't Agree With
 
-## 🌱 Growth and Mentorship
+## Crisis and Resilience
 
-## ⚖️ Decision Making
+## Growth and Mentorship
 
-## 🧘 Personal Practice
+## Decision Making
 
-## 💼 Leadership Philosophy
+## Personal Practice
+
+## Leadership Philosophy

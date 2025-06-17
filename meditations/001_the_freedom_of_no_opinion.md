@@ -1,7 +1,7 @@
 # 001: The Freedom of No Opinion
 
 *Date: 2026-06-16*  
-*Theme: Mindful Management*
+*Theme: Control and Acceptance*
 
 ## Today's Quote
 
