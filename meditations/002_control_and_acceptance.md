@@ -38,8 +38,7 @@ And maybe that’s the core of Stoicism here: **not surrendering control, but re
 
 - How I process and reflect on the decision  
 - The clarity I bring to the team  
-- The mindset I hold while translating uncertainty into direction  
-
+- The mindset I hold while translating uncertainty into direction
 - “Disagree and commit” isn’t about suppression - it’s about channeling my energy into what’s useful.
 - I don’t need to endorse the decision’s origin; I can take ownership of how we *move forward*.
 - There’s strength in being the bridge - in helping others find meaning in ambiguity, even when I’m still searching myself.
@@ -47,9 +46,9 @@ And maybe that’s the core of Stoicism here: **not surrendering control, but re
 ## The Practice
 
 **Daily:**
-1. When I feel resistance, pause to reflect on what’s inside vs. outside my control.
-2. Ask: “What part of this can I own, shape, or clarify for others?”
-3. Use journaling to capture my honest reactions privately, so I can lead publicly with composure.
+- When I feel resistance, pause to reflect on what’s inside vs. outside my control.
+- Ask: “What part of this can I own, shape, or clarify for others?”
+- Use journaling to capture my honest reactions privately, so I can lead publicly with composure.
 
 **Communication Practices:**
 - Use transparent framing: *“I had questions too, here’s what I learned…”*
