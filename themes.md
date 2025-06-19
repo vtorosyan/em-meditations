@@ -15,6 +15,8 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 ## Decision Making
 
+- [004: The Beauty of Choices](meditations/004_the_beauty_of_choices.md)
+
 ## Personal Practice
 
 ## Leadership Philosophy
