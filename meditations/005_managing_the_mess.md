@@ -1,4 +1,4 @@
-# 004: Managing the Mess
+# 005: Managing the Mess
 
 *Date: 2025-06-20*  
 *Theme: Crisis and Resilience*
