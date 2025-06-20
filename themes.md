@@ -9,6 +9,8 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 ## Crisis and Resilience
 
+- [005: Managing the Mess](meditations/005_managing_the_mess.md)
+
 ## Growth and Mentorship
 
 - [003: The Disillusion of Comfort](meditations/003_the_disillusion_of_comfort.md)
