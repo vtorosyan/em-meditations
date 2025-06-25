@@ -23,4 +23,4 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 ## Leadership Philosophy
 
-- [006: Do the Right Thing](meditations/006_do_the_right_thing.md)
+- [006: Doing the Right Thing](meditations/006_do_the_right_thing.md)
