@@ -11,4 +11,4 @@ Browse by date, or use the [themes](themes.md) page to find meditations by topic
 - [003: The Disillusion of Comfort](meditations/003_the_disillusion_of_comfort.md)
 - [004: The Beauty of Choices](meditations/004_the_beauty_of_choices.md)
 - [005: Managing the Mess](meditations/005_managing_the_mess.md)
-- [006: Do the Right Thing](meditations/006_do_the_right_thing.md)
+- [006: Doing the Right Thing](meditations/006_do_the_right_thing.md)
