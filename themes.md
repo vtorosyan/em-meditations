@@ -14,6 +14,7 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 ## Growth and Mentorship
 
 - [003: The Disillusion of Comfort](meditations/003_the_disillusion_of_comfort.md)
+- [007: The Little Knowledge](meditations/007_the_little_knowledge.md)
 
 ## Decision Making
 
