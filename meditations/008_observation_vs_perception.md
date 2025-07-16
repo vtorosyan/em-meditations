@@ -1,6 +1,6 @@
 # 008: Observation vs. Perception in Feedback
 
-*Date: 2025-07-02*  
+*Date: 2025-07-16*  
 *Theme: Growth and Mentorship*
 
 ## Today's Quote
