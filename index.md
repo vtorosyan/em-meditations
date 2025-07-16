@@ -13,3 +13,4 @@ Browse by date, or use the [themes](themes.md) page to find meditations by topic
 - [005: Managing the Mess](meditations/005_managing_the_mess.md)
 - [006: Doing the Right Thing](meditations/006_do_the_right_thing.md)
 - [007: The Little Knowledge](meditations/007_the_little_knowledge.md)
+- [008: Observation vs. Perception in Feedback](meditations/008_observation_vs_perception.md)

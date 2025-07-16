@@ -15,12 +15,11 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 - [003: The Disillusion of Comfort](meditations/003_the_disillusion_of_comfort.md)
 - [007: The Little Knowledge](meditations/007_the_little_knowledge.md)
+- [008: Observation vs. Perception in Feedback](meditations/008_observation_vs_perception.md)
 
 ## Decision Making
 
 - [004: The Beauty of Choices](meditations/004_the_beauty_of_choices.md)
-
-## Personal Practice
 
 ## Leadership Philosophy
 
