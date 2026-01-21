@@ -6,6 +6,7 @@ Meditations grouped by common Engineering Management challenges and Stoic princi
 
 - [001: The Freedom of No Opinion](meditations/001_the_freedom_of_no_opinion.md)
 - [002: Translating a Decision I Don't Agree With](meditations/002_control_and_acceptance.md)
+- [009: Fighting Entropy Without Losing Your Composure](meditations/009_fighting_entropy.md)
 
 ## Crisis and Resilience
 

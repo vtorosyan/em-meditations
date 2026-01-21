@@ -14,3 +14,4 @@ Browse by date, or use the [themes](themes.md) page to find meditations by topic
 - [006: Doing the Right Thing](meditations/006_do_the_right_thing.md)
 - [007: The Little Knowledge](meditations/007_the_little_knowledge.md)
 - [008: Observation vs. Perception in Feedback](meditations/008_observation_vs_perception.md)
+- [009: Fighting Entropy Without Losing Your Composure](meditations/009_fighting_entropy.md)
