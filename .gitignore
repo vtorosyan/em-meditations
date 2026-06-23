@@ -1,2 +1,5 @@
 .DS_Store
 node_modules/
+
+# Generated site — built and published by GitHub Actions.
+docs/

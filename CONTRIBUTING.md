@@ -13,7 +13,7 @@ Thanks for your interest in *EM Meditations*. This is a personal writing project
 | `README.md` | Project intro — also rendered as the site's **About** page. |
 | `build.js` | Zero-dependency static site generator. |
 | `Makefile` | Convenience wrapper around the build. |
-| `docs/` | **Generated output** served by GitHub Pages. Don't edit by hand — regenerate with `make build`. |
+| `docs/` | **Generated output** (git-ignored). Built and published by GitHub Actions; preview locally with `make build`. |
 
 ## Building locally
 
@@ -76,5 +76,6 @@ make clean      # remove ./docs
 ## Pull requests
 
 - Keep one meditation (or one focused change) per PR where you can.
-- `docs/` is generated and serves the live site, so run `make build` and commit
-  the regenerated output alongside your content change.
+- Don't commit `docs/` — it's git-ignored and rebuilt on every push to `main` by
+  the GitHub Actions workflow (`.github/workflows/deploy.yml`), which publishes
+  it to GitHub Pages.
